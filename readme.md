@@ -56,4 +56,4 @@ Enable the service to start on boot</br>
 systemctl enable syncthing@root
 ```
 
-Done! (Don't forget to setup a password on the webui!!)
+Done! (Don't forget to setup a password on the webui!!
